@@ -1,0 +1,15 @@
+.h4style{
+    color:rgba(40, 121, 20, 0.849);
+}
+.btn{
+    margin: auto;
+    margin-top: 1rem;
+    border: none;
+    outline: none;
+    padding: 0.5rem 1rem;
+    background-color: #2980b9;
+    color: aliceblue;
+    cursor: pointer;
+    border-radius: 1rem;
+    font-size: 1rem;
+}
